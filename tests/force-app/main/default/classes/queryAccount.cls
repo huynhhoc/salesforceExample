@@ -4,6 +4,6 @@ public with sharing class queryAccount {
         // update
     }
     public String getSayHello(){
-        return 'hello';
+        return 'hello'
     }
 }
