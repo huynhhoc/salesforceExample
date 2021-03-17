@@ -3,4 +3,7 @@ public with sharing class queryAccount {
         //To-do
         // update
     }
+    public String getSayHello(){
+        return 'hello';
+    }
 }
